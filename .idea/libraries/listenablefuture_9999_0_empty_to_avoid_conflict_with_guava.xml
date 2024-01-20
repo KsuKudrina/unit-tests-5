@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="listenablefuture-9999.0-empty-to-avoid-conflict-with-guava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/unit-tests-5/libs/selenium-java-4.11.0/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unit-tests-5/libs/selenium-java-4.11.0/lib/netty-transport-native-kqueue-4.1.92.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
